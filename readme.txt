@@ -15,6 +15,8 @@ This plugin is meant to assist in quoting items from MMO developers, using WordP
 
 Usage: [wowquote author=”Author” title=”Title” url=”url”]Content[/wowquote]
 
+All parameters are optional.
+
 == Installation ==
 Simply unzip the archive into your wp-content/plugins folder, and enable it in the console.
 
