@@ -11,9 +11,11 @@ Uses shortcodes to quickly format quotes from MMO and other developers.
 == Description ==
 MMO Quotes, a quoting plugin.
 
-This plugin is meant to assist in quoting items from MMO developers, using WordPress’s built-in shortcode API. Currently only WoW is supported, but others will be coming as I need them or upon request to tenda@letsgoachieve.com.
+This plugin is meant to assist in quoting items from MMO developers, using WordPress’s built-in shortcode API.
 
-Usage: [wowquote author=”Author” title=”Title” url=”url”]Content[/wowquote]
+Usage:
+[wowquote author=”Author” title=”Title” url=”url”]Content[/wowquote]
+[lolquote author=”Author” title=”Title” url=”url”]Content[/lolquote]
 
 All parameters are optional.
 
@@ -24,7 +26,10 @@ Simply unzip the archive into your wp-content/plugins folder, and enable it in t
 
 = What MMOs are supported? =
 
-Only WoW/Blizzard is supported at the moment. I will add more as I need them, or as requested.
+WoW/Blizzard
+League of Legends
+
+More will be added upon request: tenda@letsgoachieve.com
 
 == Screenshots ==
 
@@ -32,6 +37,9 @@ Only WoW/Blizzard is supported at the moment. I will add more as I need them, or
 2. Specific Example
 
 == Changelog ==
+
+= 0.2 =
+* Added League of Legends support
 
 = 0.1 =
 * Initial release
